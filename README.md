@@ -11,7 +11,7 @@ A simple dice rolling Flutter application that allows users to roll a pair of vi
 
 ## Screenshots
 
-![App Screenshot](screenshots/app_demo.png)
+![App Screenshot](https://raw.githubusercontent.com/ayushpatil0810/dice_and_roll_flutter_app/refs/heads/main/screenshots/app-demo.png)
 
 ## Getting Started
 
